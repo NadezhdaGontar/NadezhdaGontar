@@ -1,7 +1,6 @@
 
-:woman_technologist:Обо мне:<br>
-Я начинающий верстальщик сайтов, уже успела создать несколько интересных работ.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-
+Приветствую! Меня зовут Надежда, я начинающий верстальщик сайтов. Умею работать с макетами в графических редакторах Adobe Photoshop и Figma. 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 
 :hammer_and_wrench: Навыки адаптивной, кроссбраузерной, валидной вёрстки с применением:
 
@@ -12,7 +11,13 @@
 - Git;<br>
 - Gulp;<br>
 - методология БЭМ;<br>
-- верстка по PSD и Figma макетам.
+
+:woman_technologist:Общая информация:<br>
+- Имею высшее образование по специальности "Прикладная информатика в экономике".<br>
+- Прохожу курс Front-end разработчика в Skillbox. <br>
+- Английский язык - А1. <br>
+- Немецкий язык - А2.
+
 <div align="center">
   <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" width="600" height="300"/>
 </div>

@@ -19,6 +19,10 @@
 - Английский язык - А1. <br>
 - Немецкий язык - А2.
 
+:woman_technologist:Мои контакты:<br>
+- Email: nadjagont86@gmail.com.
+- Telegram: @gontar_n 
+
 <div align="center">
   <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" width="600" height="300"/>
 </div>
